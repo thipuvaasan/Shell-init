@@ -1,0 +1,2 @@
+# Shell-init
+Shell scripting
